@@ -1,0 +1,11 @@
+{
+  "name": "definitions",
+  "version": "1.0.0",
+  "description": "Command line tool to keep on top of definitions to study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tobias Edwards <tobias.w.edwards@gmail.com>",
+  "license": "ISC"
+}
